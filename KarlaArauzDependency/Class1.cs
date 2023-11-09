@@ -1,7 +1,7 @@
 ﻿namespace KarlaArauzDependency
 {
-    public class Class1
+    public class HolaMundo
     {
-
+        public string Saludo { get; set; } = "Hola mundo";
     }
 }

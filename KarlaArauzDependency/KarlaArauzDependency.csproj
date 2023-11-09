@@ -1,9 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <Authors>Karla</Authors>
+	  <Company>enee</Company>
+	  <Version>1.0.2</Version>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/KarlaArauz/KarlaArauzDependencyTest.git</RepositoryUrl>
+	  <Description>Dependency container</Description>
   </PropertyGroup>
 
 </Project>
